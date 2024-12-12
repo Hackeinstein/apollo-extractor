@@ -1,0 +1,13 @@
+2024-12-01 00:49:25,770 - ====== WebDriver manager ======
+2024-12-01 00:49:29,573 - Get LATEST chromedriver version for google-chrome
+2024-12-01 00:49:31,802 - Get LATEST chromedriver version for google-chrome
+2024-12-01 00:49:33,861 - Get LATEST chromedriver version for google-chrome
+2024-12-01 00:49:38,067 - WebDriver version 131.0.6778.85 selected
+2024-12-01 00:49:38,079 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.85/win32/chromedriver-win32.zip
+2024-12-01 00:49:38,080 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.85/win32/chromedriver-win32.zip
+2024-12-01 00:49:40,200 - Driver downloading response is 200
+2024-12-01 00:49:45,702 - Get LATEST chromedriver version for google-chrome
+2024-12-01 00:49:49,834 - Driver has been saved in cache [C:\Users\Hackeinstein\.wdm\drivers\chromedriver\win64\131.0.6778.85]
+2024-12-01 00:50:45,469 - Scraping in progress...
+2024-12-01 00:51:50,832 - Error during scraping: 'ApolloHunterApp' object has no attribute 'update_recovered_label'
+2024-12-01 00:52:21,323 - Scraping stopped.
